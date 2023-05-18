@@ -188,7 +188,7 @@
     <section class="justify-content-xl-start" style="padding: 10px 0px;">
         <div class="container" style="padding: 20px 10px;">
             <div class="photo-card" style="margin: 0px 20px;width: auto;max-width: 100%;background: rgba(0,0,0,0);">
-                <div class="photo-background" style="background: url(assets/img/pres_img.jpeg) center cover no-repeat;min-width: 250px;max-width: 400px;width: auto;margin: 0px auto;">
+                <div class="photo-background" style="background-image: url(assets/img/pres_img.jpeg);min-width: 250px;max-width: 400px;width: auto;margin: 0px auto;">
                 </div>
                 <div class="photo-details" style="padding: 20px;width:100%;">
                     <h1 style="color: var(--bs-body-color);font-weight: bold;font-family: 'Source Sans Pro',sans-serif;padding: 5px;border-bottom-style: solid;border-bottom-color: var(--bs-gray-700);">अध्यक्ष का संदेश&nbsp;

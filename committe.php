@@ -69,7 +69,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9259112323</li>
                     </ul>
                 </div>
             </div>
@@ -92,7 +92,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9837071602</li>
                     </ul>
                 </div>
             </div>
@@ -119,7 +119,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9259112327</li>
                     </ul>
                 </div>
             </div>
@@ -127,7 +127,7 @@
                 <div class="card m-b-30">
                     <div class="card-body row">
                         <div class="col-6">
-                            <a href=""><img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="" class="img-fluid rounded
+                            <a href=""><img src="assets/img/member4.png" alt="" class="img-fluid rounded
                                         w-120"></a>
                         </div>
                         <div class="col-6 card-title align-self-center
@@ -142,7 +142,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9568382818</li>
                     </ul>
                 </div>
             </div>
@@ -150,7 +150,7 @@
                 <div class="card m-b-30">
                     <div class="card-body row">
                         <div class="col-6">
-                            <a href=""><img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="" class="img-fluid rounded
+                            <a href=""><img src="assets/img/member13.png" alt="" class="img-fluid rounded
                                         w-120"></a>
                         </div>
                         <div class="col-6 card-title align-self-center
@@ -165,7 +165,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9675043146</li>
                     </ul>
                 </div>
             </div>
@@ -173,7 +173,7 @@
                 <div class="card m-b-30">
                     <div class="card-body row">
                         <div class="col-6">
-                            <a href=""><img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="" class="img-fluid rounded
+                            <a href=""><img src="assets/img/member1.png" alt="" class="img-fluid rounded
                                         w-120"></a>
                         </div>
                         <div class="col-6 card-title align-self-center
@@ -188,7 +188,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9927284855</li>
                     </ul>
                 </div>
             </div>
@@ -215,7 +215,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9411237136</li>
                     </ul>
                 </div>
             </div>
@@ -223,12 +223,12 @@
                 <div class="card m-b-30">
                     <div class="card-body row">
                         <div class="col-6">
-                            <a href=""><img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="" class="img-fluid rounded
+                            <a href=""><img src="assets/img/member17.png" alt="" class="img-fluid rounded
                                         w-120"></a>
                         </div>
                         <div class="col-6 card-title align-self-center
                                 mb-0">
-                            <h5>हदीपक कुमार खासट </h5>
+                            <h5>दीपक कुमार खासट </h5>
                             <p class="m-0">उपप्रबंधक</p>
                         </div>
                     </div>
@@ -238,7 +238,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9759121882</li>
                     </ul>
                 </div>
             </div>
@@ -261,7 +261,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9412446928</li>
                     </ul>
                 </div>
             </div>
@@ -284,7 +284,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9045025671</li>
                     </ul>
                 </div>
             </div>
@@ -311,7 +311,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 8909124030</li>
                     </ul>
                 </div>
             </div>
@@ -319,7 +319,7 @@
                 <div class="card m-b-30">
                     <div class="card-body row">
                         <div class="col-6">
-                            <a href=""><img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="" class="img-fluid rounded
+                            <a href=""><img src="assets/img/member11.png" alt="" class="img-fluid rounded
                                         w-120"></a>
                         </div>
                         <div class="col-6 card-title align-self-center
@@ -334,7 +334,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9897552751</li>
                     </ul>
                 </div>
             </div>
@@ -357,7 +357,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 7830761652</li>
                     </ul>
                 </div>
             </div>
@@ -380,7 +380,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9927308030</li>
                     </ul>
                 </div>
             </div>
@@ -407,7 +407,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9927004902</li>
                     </ul>
                 </div>
             </div>
@@ -415,7 +415,7 @@
                 <div class="card m-b-30">
                     <div class="card-body row">
                         <div class="col-6">
-                            <a href=""><img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="" class="img-fluid rounded
+                            <a href=""><img src="assets/img/member2.png" alt="" class="img-fluid rounded
                                         w-120"></a>
                         </div>
                         <div class="col-6 card-title align-self-center
@@ -430,7 +430,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 7906551797</li>
                     </ul>
                 </div>
             </div>
@@ -453,7 +453,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9870987760</li>
                     </ul>
                 </div>
             </div>
@@ -479,7 +479,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9808571752</li>
                     </ul>
                 </div>
             </div>
@@ -502,7 +502,7 @@
                                     data-cfemail="237342564f644c5a4657574663444e424a4f0d404c4e">[email&nbsp;protected]</span></a>
                         </li>
                         <li class="list-group-item"><i class="fa fa-phone
-                                    float-right"></i>Phone : 000 123-456</li>
+                                    float-right"></i>Phone : 9897719303</li>
                     </ul>
                 </div>
             </div>

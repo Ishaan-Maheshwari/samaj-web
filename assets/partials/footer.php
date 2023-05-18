@@ -6,7 +6,7 @@ $footer = "
 
 <footer class='footer'>
     <p class='mb-0'>Copyright <script>document.write(new Date().getFullYear())</script>
-            &copy; <a href='/index.php'>Website</a></p>
+            &copy; <a href='/index.php'>डीडू माहेश्वरी युवक मंडल</a></p>
 
     <div class='social-links text-right m-auto ml-sm-auto'>
             <a href='https://www.facebook.com/' target='_blank' class='link'><i class='ti-facebook'> </i> </a>
