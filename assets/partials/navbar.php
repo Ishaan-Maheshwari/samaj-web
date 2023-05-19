@@ -20,7 +20,7 @@ $navbar = "
                         <a class='dropdown-item' href='#' style='background:rgba(255,193,7,1.0);margin: 4px 0px;border-radius: 0.7em;color: #000000;font-style: italic;'>श्री आनादीलाल बिड़ला जू. हा. स्कूल</a>
                     </div>
                 </li>
-                <li class='nav-item'> <a class='nav-link active' href='bhawan/index.php'>महेश्वरी भवन&nbsp;<br></a> </li>
+                <li class='nav-item'> <a class='nav-link active' href='bhawan/index.php'>माहेश्वरी भवन&nbsp;<br></a> </li>
                 <li class='nav-item'> <a class='nav-link active' href='#'>शिवालय<br></a> </li>
                 <li class='nav-item'> <a class='nav-link active' href='#'>समाज&nbsp;<br></a> </li>
                 <li class='nav-item'> <a class='nav-link active' href='photogallery.php'>&nbsp;चित्र प्रदर्शनी<br></a> </li>
