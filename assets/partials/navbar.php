@@ -21,7 +21,7 @@ $navbar = "
                     </div>
                 </li>
                 <li class='nav-item'> <a class='nav-link active' href='bhawan/index.php'>माहेश्वरी भवन&nbsp;<br></a> </li>
-                <li class='nav-item'> <a class='nav-link active' href='#'>शिवालय<br></a> </li>
+                <li class='nav-item'> <a class='nav-link active' href='Shivalaya/index.html'>शिवालय<br></a> </li>
                 <li class='nav-item'> <a class='nav-link active' href='#'>समाज&nbsp;<br></a> </li>
                 <li class='nav-item'> <a class='nav-link active' href='photogallery.php'>&nbsp;चित्र प्रदर्शनी<br></a> </li>
                 <li class='nav-item'> <a class='nav-link active' href='#'>समाचार<br></a> </li>
